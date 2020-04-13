@@ -17,19 +17,19 @@ To install P2C2M, first download the gunzipped tarball and then install from sou
 
 #### R:
 
-R (&gt;=3.0.0)
-ape (&gt;=3.1-4)
-ggplot2 (&gt;=1.0.0)
-rPython (&gt;=0.0-5)
-stringr (&gt;=0.6.2)
-phybase (&gt;=1.3.1) - not on CRAN
-Rmpi (&gt;=0.6-5)
-xtermStyle (&gt;=2.2-4)
+R (&gt;=3.0.0),
+ape (&gt;=3.1-4),
+ggplot2 (&gt;=1.0.0),
+rPython (&gt;=0.0-5),
+stringr (&gt;=0.6.2),
+phybase (&gt;=1.3.1) - not on CRAN,
+Rmpi (&gt;=0.6-5),
+xtermStyle (&gt;=2.2-4),
 
 #### Python
 
-Python (&gt;=3.5.0)
-dendropy (&gt;=3.12.0)
+Python (&gt;=3.5.0),
+dendropy (&gt;=3.12.0),
 numpy (&gt;=1.9.0)
 
 Use
